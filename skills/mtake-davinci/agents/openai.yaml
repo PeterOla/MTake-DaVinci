@@ -1,0 +1,4 @@
+interface:
+  display_name: "MTake DaVinci"
+  short_description: "Direct and finish illustrated documentary shorts"
+  default_prompt: "Use $mtake-davinci to turn my idea into a vertical illustrated film. Start with the story chain, narration and camera sheet."

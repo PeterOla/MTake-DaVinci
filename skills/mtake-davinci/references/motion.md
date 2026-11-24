@@ -1,0 +1,16 @@
+# Direct physical action and illustrated effects
+
+Start with the story poses. Draw what the viewer sees immediately before contact, on contact, at the largest response, and after settling. Choose a fixed feature to judge movement against. An object can seem to slide on the ground because of a changing camera, or a camera can seem to shake because two editions use different crops. Review the world and camera separately.
+
+| Story event | Stage these relationships | What to look for at normal speed |
+| --- | --- | --- |
+| An object enters | Establish where it comes from. Let it enter the wide and cross a landmark before the camera joins it. | The viewer can point to the same silhouette through any reframing. |
+| A heavy object lands | Keep the contact point anchored. One end catches; the remaining mass rotates, then settles, with an audible second contact if the picture supports it. | The shape stays rigid. Loose material reacts at the point of contact. |
+| A chain of objects responds | Time each response to contact. Keep the nearest, intervening and far parts of the world consistent. Preserve changed states as the camera moves. | No response begins early; the final object reacts only if something reaches it. |
+| A person changes activity | Stage the first visible stimulus, the look, a pause or shift of weight, then the handoff. Use sufficient screen size for the two objects to read. | The hand stays on the object, the elbow has room, the leg clears the seat and the new posture survives the return shot. |
+| A single revealing object separates | Let the other debris clear. Follow the chosen object through an identifiable landing or reveal. In a crowd, choose a representative consequence and keep the wide legible. | The close-up supplies information the wide couldn't show. |
+| Things move fast | Place a few short-lived strokes near the visible leading form or side edges. Parent their angle to its actual screen-space motion; alternate upper/lower phases, vary length by depth. | Freeze, then play at speed. The strokes stream relative to the subject without reading as permanent rods or exhaust. |
+
+**Exaggeration.** Select one thing to exaggerate, such as apparent weight, light or scale. Keep the contact, silhouette, landmark and direction coherent. Build a stylised flash or steam burst from an irregular silhouette, rounded overlapping lobes, a dark outer shape, deeper coloured middle shapes, smaller warm pockets, then brief highlights. Keep far flickers visible through gaps as the nearest cloud darkens. Stagger growth, drift and clearing across depth. Let some of the light reach nearby surfaces. A bright disc expanding as one layer and a photographically rendered plume can both break the linework treatment. Compare the screen area, onset and decay against the subject at the same distance. Use practical non-hazardous references such as a stage light through steam.
+
+In the [tabletop example](../examples/the-gap/README.md), the causal test is simple enough to inspect. Each tile begins turning when its neighbour reaches it. The longer empty interval stops the chain. A visible gap followed by an inexplicably moving fifth tile breaks the story, even with a perfectly timed score.

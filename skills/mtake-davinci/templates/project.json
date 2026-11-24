@@ -1,0 +1,12 @@
+{
+  "title": "Untitled film",
+  "fps": 30,
+  "size": [1080, 1920],
+  "scenes": [],
+  "shots": [],
+  "subjects": [],
+  "stems": {"voice": "audio/voice.wav", "music": "audio/music.wav", "effects": "audio/effects.wav"},
+  "captions": "captions.srt",
+  "cues": [],
+  "accents": []
+}

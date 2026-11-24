@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.ttf binary
+*.wav binary
+skills/mtake-davinci/assets/CrimsonPro-OFL.txt -text -diff

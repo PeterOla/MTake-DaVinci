@@ -1,0 +1,13 @@
+# Original diffuse material colours; paired with domino.obj.
+newmtl marked
+Kd 0.25 0.23 0.21
+newmtl side
+Kd 0.17 0.16 0.16
+newmtl back
+Kd 0.20 0.19 0.17
+newmtl bevel
+Kd 0.56 0.48 0.38
+newmtl pip
+Kd 0.84 0.74 0.56
+newmtl rule
+Kd 0.53 0.45 0.36
