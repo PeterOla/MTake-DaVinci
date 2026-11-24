@@ -4,6 +4,8 @@ An installable directing skill and production toolkit for original vertical illu
 
 **[Watch The Gap, a nine-second example with sound](https://github.com/PeterOla/MTake-DaVinci/releases/download/v0.1.0/the-gap.mp4)** · **[See its real reference, neutral model and final drawing](skills/mtake-davinci/examples/the-gap/source-board.jpg)** · **[Read the skill](skills/mtake-davinci/SKILL.md)**
 
+The download also includes [eight editable Halifax models in architectural linework](skills/mtake-davinci/assets/models/README.md) and [three original felt-piano cues from the production](skills/mtake-davinci/assets/sounds/README.md). Start with the existing house, roads, lamp, bed or steamship when one fits your new film.
+
 ## Install
 
 Get Python 3.11+, Git and FFmpeg with ffprobe. Clone the repository, then install the skill in your agent's user skill directory:

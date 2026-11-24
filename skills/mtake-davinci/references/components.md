@@ -2,6 +2,8 @@
 
 Look for the **function** you need, e.g. “soft keyed cue with a long decay” or “one continuous pullback showing a missing connection.” Keep catalogue rows with the template's provenance and dimensions. Add your actual sets, performers, props, furniture, street pieces, documents, evidence graphics, typography, effects and sounds as you make films. The release includes the following redistributable starters.
 
+Start with the [eight editable Halifax location and prop models](../assets/models/README.md) and [three original piano prints](../assets/sounds/README.md). The model gallery includes the same timber house in dark and light treatments. You can reproduce either directly from the GLB. The sound library includes the actual early tension build with its space between notes.
+
 | Need | What you can use | Controls / proof |
 | --- | --- | --- |
 | A real mesh drawn in ink | [Blender starter](../scripts/blender_board.py) imports your licensed OBJ/glTF/GLB, renders neutral, on and off through one camera and saves an editable scene. | Editable source, studio view, camera, material and cavity treatment. Match the approved camera and restage the asset when placing it in production. An isolated import board only proves that the asset can be rendered. |

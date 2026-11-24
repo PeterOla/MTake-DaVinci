@@ -3,4 +3,6 @@
 *.jpg binary
 *.ttf binary
 *.wav binary
+*.flac binary
+*.glb binary
 skills/mtake-davinci/assets/CrimsonPro-OFL.txt -text -diff

@@ -2,6 +2,8 @@
 
 The MTake DaVinci workflow, original example geometry, code, original score and designed effects are available under the MIT licence. The repository root and installed package carry the licence. The release movie is an original rendering of these components. The following source materials keep their own terms.
 
+The eight [Halifax meshes](assets/models/README.md) are original code-built production geometry, exported as editable GLBs with embedded face and edge data. The three [Halifax cue files](assets/sounds/README.md) contain the original synthesised piano from isolated stems. These contributions are included under MIT. Their private source films, reference photographs, licensed location recordings and third-party musical recordings are separate.
+
 | File | Origin and terms | Use here |
 | --- | --- | --- |
 | examples/the-gap/reference.jpg | Roland Scheicher, *Domino.JPG*, released by the author into the public domain worldwide, with an unrestricted fallback grant where necessary. [Original and permission](https://commons.wikimedia.org/wiki/File:Domino.JPG) | Resized photograph for model reference, without photo pixels in the animated scene. |

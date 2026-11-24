@@ -14,6 +14,8 @@ Start the cut on a change someone can see or hear. Identify an object, a person 
 
 ## Build the middle and ending
 
+Use the [twelve cross-study choices](patterns.md) for alternate treatments of materials, reveals, evidence graphics, transitions, cadence and sound perspective.
+
 The opening poses a question the next scene can answer. Move from the one thing the viewer can recognise to its wider cause. Return to the affected person or place while the earlier landmark is still recognisable. Choose an ending that changes the meaning of the opening object, reveals a comparison, or gives the viewer time to make a judgement. An unresolved question can work if the reporting genuinely leaves it open.
 
 For a 45–60 second short, sketch a first pass with an event in the opening seconds, a clue and question in the first ten, an explanation or change of scale in the next ten, and a consequence before the return. Let new evidence determine the remaining beats. In a two-minute film, repeat the question-and-answer structure at chapter boundaries and give each new chapter a distinct visual task. A person should be able to tell you why the film moved from one scene to the next.
